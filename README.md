@@ -1,4 +1,4 @@
-# ARTH AI Red Team Terminal
+# Automated Novel Prompt Injection automation for NSFW image gen.
 
 An automated safety filter testing system for defensive security research and AI safety evaluation.
 
