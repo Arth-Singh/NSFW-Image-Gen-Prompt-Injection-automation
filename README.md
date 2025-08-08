@@ -4,14 +4,14 @@ An automated safety filter testing system for defensive security research and AI
 
 ## 🎯 Purpose
 
-This tool is designed for **defensive security research** to test AI safety filters and improve content moderation systems. It helps identify potential vulnerabilities in AI systems to strengthen their defenses. Gemini helps to create Prompts which later is given to ChatGPT models for Image Gen.
+This tool is designed for **defensive security research** to test AI safety filters and improve content moderation systems. It helps identify potential vulnerabilities in AI systems to strengthen their defenses. kimi helps to create Prompts which later is given to ChatGPT models for Image Gen.
 The prompts are saved in logs with the output image.
 
 ## 🚀 Quick Start
 
 ### Prerequisites
 - Python 3.8+
-- API keys for OpenAI and KIMI
+- API keys for OpenAI and KIMI( You can use any other model by tweaking the code)
 
 ### Installation
 ```bash
@@ -57,12 +57,12 @@ automator-redteam/
 Create a `.env` file with your API keys:
 ```
 OPENAI_API_KEY=your_openai_key_here
-GEMINI_API_KEY=your_GEMINI_key_here
+kimi_API_KEY=your_kimi_key_here
 ```
 
 ## 🛡️ Features
 
-- **Multi-API Integration**: Gemini API and OpenAI GPT Image 1
+- **Multi-API Integration**: kimi API and OpenAI GPT Image 1
 - **Safety Testing**: Automated content moderation testing
 - **Comprehensive Logging**: JSON format for security analysis
 - **Visual Reports**: Generated charts and analytics
