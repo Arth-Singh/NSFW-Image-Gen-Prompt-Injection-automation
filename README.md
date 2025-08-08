@@ -61,7 +61,7 @@ KIMI_API_KEY=your_kimi_key_here
 
 ## 🛡️ Features
 
-- **Multi-API Integration**: KIMI K2 API and OpenAI GPT Image 1
+- **Multi-API Integration**: Gemini API and OpenAI GPT Image 1
 - **Safety Testing**: Automated content moderation testing
 - **Comprehensive Logging**: JSON format for security analysis
 - **Visual Reports**: Generated charts and analytics
